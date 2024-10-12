@@ -31,7 +31,7 @@ This new worksheet that has been created is where we start making use of our hig
 1. chart element
 2. chart style
 3. format chart area.
-4. 
+
 These three items are tools you will be needing in order to create your desire chart base on what you want.
 
 Under the chart elements these are where you can add or remove features such as your chart title, data label, gridlines, legend and so on.
