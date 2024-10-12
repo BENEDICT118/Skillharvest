@@ -27,6 +27,9 @@ This new worksheet that has been created is where we start making use of our hig
 ![17287727964865721857529536708269](https://github.com/user-attachments/assets/ad1b5d91-e18d-4cb9-b591-7193405a6430)
 - next we highlight the whole table and then under the menu bar which are the toolbar we look for the chart section and then click on column bar, bar chart, pie chart, line chart depending on which ever you want to work with. let say we want to work with column bar
 ![17287730936461794656933330570223](https://github.com/user-attachments/assets/d35a787f-45ec-467f-8ecf-4760955febb5)
+
+![17287745618919088867877984784308](https://github.com/user-attachments/assets/8b4d3a34-7e3c-46ea-886c-1215c84ec58e)
+
 - Beside your column chart you will see three icons which are
 1. chart element
 2. chart style
