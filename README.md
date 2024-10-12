@@ -13,4 +13,5 @@ The tool i used was Microsoft 365
 ### Procedure/Step by step
 After downloading the  data which you want to use, you will have to open it on your excel sheet or Microsoft365 depending on which ever one you are using 
 - You will have to highlight the whole data by pressing Ctrl+shift+forward 👉arrow and then press the downward 👇 arrow
-- we go to our 
+
+
