@@ -9,6 +9,8 @@ The main objective is to organize, summarize, and analyze large datasets using p
 my data was gotten from premises
 ### Tools used
 The tool i used was Microsoft 365
+### Exploratory data analysis 
+I want to check for the sum of the unit sold for the whole region.
 
 ### Procedure/Step by step
 After downloading the  data which you want to use, you will have to open it on your excel sheet or Microsoft365 depending on which ever one you are using 
