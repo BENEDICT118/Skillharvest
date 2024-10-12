@@ -45,5 +45,7 @@ while for your chart style is where you can change the chart style and also add 
 
 finally the format chart area is where you add effect such as shadow, glow, soft edges and so on.
 
-
+### Recommendations 
+- Rows and Columns: These fields help to group and categorize the data. For example, placing "Product Name" in the Rows area will create a list of products.
+- Values:This is where you place numerical data for analysis (e.g., sales, costs). Choose how you want to summarize the data (sum, average, count, etc.).
 
