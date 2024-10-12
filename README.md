@@ -23,4 +23,8 @@ This new worksheet that has been created is where we start making use of our hig
 ![17287724474668870652900154824735](https://github.com/user-attachments/assets/fa323927-7bae-49dc-836f-6fcc5c51c99a)
 
 - By the righthand side of our screen we will see our Field list from which from which will we choose the data we want to make use of. Let say for instance we want to see the region with the sum of unit sold.
-- Next we select/drag the region to the row pivot table area and then select/drag the the unit sold ro the value pivot table area
+- Next we select/drag the region to the row pivot table area and then select/drag the the unit sold ro the value pivot table area.
+![17287727964865721857529536708269](https://github.com/user-attachments/assets/ad1b5d91-e18d-4cb9-b591-7193405a6430)
+- next we highlight the whole table and then under the menu bar which are the toolbar we look for the chart section and then click on column bar, bar chart, pie chart, line chart depending on which ever you want to work with. let say we want to work with column bar
+
+
