@@ -13,5 +13,6 @@ The tool i used was Microsoft 365
 ### Procedure/Step by step
 After downloading the  data which you want to use, you will have to open it on your excel sheet or Microsoft365 depending on which ever one you are using 
 - You will have to highlight the whole data by pressing Ctrl+shift+forward 👉arrow and then press the downward 👇 arrow
+![17287625660485391297630014183813](https://github.com/user-attachments/assets/e14242e4-084d-4600-82a0-c0f5d498c076)
 
 
