@@ -20,4 +20,6 @@ After downloading the  data which you want to use, you will have to open it on y
   ![17287629872923784627571866855552](https://github.com/user-attachments/assets/77bcde79-6d6e-48d7-9cbb-47f1bd0eb04c)
 we click on the new worksheet and then Press ok. This will then take us to a new worksheet.
 This new worksheet that has been created is where we start making use of our highlighted data to start creating our own pivot table.
+![17287724474668870652900154824735](https://github.com/user-attachments/assets/fa323927-7bae-49dc-836f-6fcc5c51c99a)
+
 - By the righthand side of our screen we will see our Field list from which from which will we choose the data we want to make use of. Let say for instance we want to see the region with the sum of unit sold.
