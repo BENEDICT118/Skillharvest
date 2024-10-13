@@ -51,6 +51,7 @@ finally the format chart area is where you add effect such as shadow, glow, soft
 - Keep the table manageable by not overloading it with too many fields. If it becomes too complex, it may be difficult to interpret or visualize the results.
 - Break down complex data into smaller, more meaningful tables or use charts for a visual representation.
 
+Below are my visual report
 [Pivot Tables File.xlsx](https://github.com/user-attachments/files/17355280/Pivot.Tables.File.xlsx)
 
 
