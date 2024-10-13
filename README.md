@@ -3,6 +3,8 @@
 ## [project overview](#project-overview) 
 ## [objective](#objective) 
 ## [data source](#data-source)
+## [procedure/step by step](#procedure/step-by-step)
+## [tools used](#tools-used)
 
 ## project overview
 A pivot table is a data summarization tool often used in spreadsheet programs like Excel or Google Sheets. It helps analyze, explore, and summarize large sets of data by automatically sorting, counting, and averaging the data, offering insights into patterns and trends. Here's a general project overview for working with a pivot table:
