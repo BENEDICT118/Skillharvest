@@ -1,10 +1,4 @@
 # How to make a visual report using a pivot table 
-## table of outine
-## [project overview](#project-overview) 
-## [objective](#objective) 
-## [data source](#data-source)
-## [procedure/step by step](#procedure/step-by-step)
-## [tools used](#tools-used)
 
 ## project overview
 A pivot table is a data summarization tool often used in spreadsheet programs like Excel or Google Sheets. It helps analyze, explore, and summarize large sets of data by automatically sorting, counting, and averaging the data, offering insights into patterns and trends. Here's a general project overview for working with a pivot table:
@@ -71,10 +65,3 @@ Below are my visual report
 
 ![17288170261676920385434421727466](https://github.com/user-attachments/assets/77940a58-a7dc-4516-9436-1466dfe9ff95)
 
-i love **fine girls**
-
-i love _fine girls_
-
-|table 1|table 2|table 3|
-|-------|-------|-------|
-|amount|record|size|
